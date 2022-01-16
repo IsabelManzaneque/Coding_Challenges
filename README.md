@@ -8,6 +8,8 @@ This repository contains a compilation of code challenges using different langua
 
 ## Game of checkers
 
+https://github.com/IsabelManzaneque/Code_Challenges/tree/main/Game_of_checkers
+
 Given the start and finish positions on a checkerboard, write a program to check whether a piece can reach the finish position from the start with a series of valid moves. In 
 the game of checkers, an uncrowned piece may only move one step diagonally forward, where forward is in the direction of the opponent's starting row. Assume that there is 
 only one piece on an 8 times 8 checkerboard. The light pieces start at the bottom and the dark pieces start at the top.Columns are designated by characters `a, b, c, d, e, f, 
@@ -17,15 +19,12 @@ Only the dark squares of the checkered board are used.
 
 Input:
 
-"A string containing three space-delimited, alpha-numeric values: 
-. The color of the piece
-. The start position
-. The finish position.
+A string containing three space-delimited, alpha-numeric values: The color of the piece, the start position, the finish position.
 The color of the piece is designated by the one character: `L` for light, or `D` for dark.
-The position on the checkerboard is a concatenation of a character and integer, addressing the column and the row respectively. For example: 
-L e3 g7  is a Light colored piece starting in position e3 and trying to get to g7.
+The position on the checkerboard is a concatenation of a character and integer, addressing the column and the row respectively. 
+For example: L e3 g7  is a Light colored piece starting in position e3 and trying to get to g7.
 
 
-Output: "`True` if the checker can reach the finish position, otherwise `False`."
+Output: `True` if the checker can reach the finish position, otherwise `False`.
 
 
