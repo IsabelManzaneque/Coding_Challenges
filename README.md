@@ -12,6 +12,7 @@ g, h` from left to right. Rows are designated by numbers `1, 2, 3, 4, 5, 6, 7, 8
 Only the dark squares of the checkered board are used.
 
 Input:
+
 "A string containing three space-delimited, alpha-numeric values: 
 . The color of the piece
 . The start position
