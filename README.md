@@ -1,6 +1,10 @@
 # Code_Challenges
 This repository contains a compilation of code challenges using different languages 
 
+## Table of contents
+
+* [Game of checkers](#game-of-checkers)
+
 
 ## Game of checkers
 
