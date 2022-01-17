@@ -1,4 +1,4 @@
-# Code_Challenges
+# Coding_Challenges
 This repository contains a compilation of code challenges using different languages 
 
 ## Table of contents
