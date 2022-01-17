@@ -31,6 +31,8 @@ Output: `True` if the checker can reach the finish position, otherwise `False`.
 
 ## Climbing snail
 
+https://github.com/IsabelManzaneque/Code_Challenges/tree/main/Climbing_snail
+
 A snail climbs on a wall, it starts at the bottom and climbs up n meters a day. Every night it slides m meters down.
 Given the height of the wall H, write a program to calculate how many days required for the snail to reach the top of the wall.
 
