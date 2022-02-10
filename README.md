@@ -5,6 +5,7 @@ This repository contains a compilation of code challenges using different langua
 
 * [Game of checkers](#game-of-checkers)
 * [Climbing snail](#climbing-snail)
+* [Print Rhombus](#print-rhombus)
 
 
 ## Game of checkers
@@ -41,4 +42,12 @@ input : Three non-negative integers n, m, and H separated by a space. For exampl
 output : A single integer number, which is the number of days required for the snail to reach the top of the wall. For example: 9.
 If the snail will never be able to reach the top of the wall print `Fail`
 
+
+## Print Rhombus
+
+https://github.com/IsabelManzaneque/Coding_Challenges/tree/main/print_rhombus
+
+Write a program that takes a positive integer n and prints a rhombus made of the characters "@", "o" and "." with side size n. 
+From the outside in, the layers of the rhombus will be made of the following characters: "@", ".", "o", ".", "@", ".", "o" and so on.
+The largest size of the rhombus will be 20. The program will not print negative or 0 size. If the wrong input is entered the program will end, there won't be a loop requesting a correct input to be entered.
 
