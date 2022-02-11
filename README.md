@@ -6,6 +6,7 @@ This repository contains a compilation of code challenges using different langua
 * [Game of checkers](#game-of-checkers)
 * [Climbing snail](#climbing-snail)
 * [Print Rhombus](#print-rhombus)
+* [Calendar](#calendar)
 
 
 ## Game of checkers
@@ -51,3 +52,7 @@ Write a program that takes a positive integer n and prints a rhombus made of the
 From the outside in, the layers of the rhombus will be made of the following characters: "@", ".", "o", ".", "@", ".", "o" and so on.
 The largest size of the rhombus will be 20. The program will not print negative or 0 size. If the wrong input is entered the program will end, there won't be a loop requesting a correct input to be entered.
 
+
+## Calendar
+
+https://github.com/IsabelManzaneque/Coding_Challenges/tree/main/Calendar
