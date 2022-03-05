@@ -56,3 +56,10 @@ The largest size of the rhombus will be 20. The program will not print negative 
 ## Calendar
 
 https://github.com/IsabelManzaneque/Coding_Challenges/tree/main/Calendar
+
+Write a program that requests a month and a year in the range between 1601 and 3000 and prints out the month's calendar page. The program won't print out anything for the years out of range. The characters "=", "|", "." and blank space must be used so the end result looks as follows:
+
+<img width="174" alt="image" src="https://user-images.githubusercontent.com/86284395/156873979-c4ab6077-57d1-4dd6-aa01-358871fe4048.png">
+
+
+It is suggested to write a function that determines if it is a leap-year and another one to calculate on which weekday does the month begin
