@@ -7,6 +7,7 @@ This repository contains a compilation of code challenges using different langua
 * [Climbing snail](#climbing-snail)
 * [Print Rhombus](#print-rhombus)
 * [Calendar](#calendar)
+* [Desplazador 1 bit](#desplazador-1-bit)
 
 
 ## Game of checkers
@@ -63,3 +64,11 @@ Write a program that requests a month and a year in the range between 1601 and 3
 
 
 It is suggested to write a function that determines if it is a leap-year and another one to calculate on which weekday does the month begin
+
+## Desplazador 1 bit
+
+Escriba en VHDL la architecture que describa el comportamiento de un circuito combinacional que realiza operaciones de desplazamiento sobre una entrada de 4 bits. La entrada de seleccion de operacion del circuito es "op". Las senales de entrada y salida se llaman, respectivamente, "entrada" y "salida"
+
+
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/86284395/165338720-55244bf5-0dd8-4069-8742-c2d0b1aac417.png">
+
