@@ -67,6 +67,8 @@ It is suggested to write a function that determines if it is a leap-year and ano
 
 ## Desplazador 1 bit
 
+https://github.com/IsabelManzaneque/Coding_Challenges/tree/main/desplazador_1_bit
+
 Escriba en VHDL la architecture que describa el comportamiento de un circuito combinacional que realiza operaciones de desplazamiento sobre una entrada de 4 bits. La entrada de seleccion de operacion del circuito es "op". Las senales de entrada y salida se llaman, respectivamente, "entrada" y "salida"
 
 
