@@ -8,6 +8,7 @@ This repository contains a compilation of code challenges using different langua
 * [Print Rhombus](#print-rhombus)
 * [Calendar](#calendar)
 * [Desplazador 1 bit](#desplazador-1-bit)
+* [laberinto](#laberinto)
 
 
 ## Game of checkers
@@ -74,3 +75,10 @@ Escriba en VHDL la architecture que describa el comportamiento de un circuito co
 
 <img width="299" alt="image" src="https://user-images.githubusercontent.com/86284395/165338720-55244bf5-0dd8-4069-8742-c2d0b1aac417.png">
 
+
+## Laberinto
+
+https://github.com/IsabelManzaneque/Coding_Challenges/tree/main/laberinto
+
+Dado un array bidimensional de enteros que representa un laberinto, en el que  0 representa "casilla libre" y 1 representa "pared", devuelve un booleano que indique si hay un camino desde la casilla (0,0) [superior izquierda] hasta la casilla inferior derecha
+ 
